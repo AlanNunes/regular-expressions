@@ -1,0 +1,4 @@
+\b word boundary \b
+\B not (word boundary) \B
+\w [a-zA-Z\d\._]
+\s white spaces including \n \r

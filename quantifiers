@@ -1,0 +1,4 @@
+? (zero ou um caractere)
++ (um ou mais caracteres)
+* (zero ou mais caracteres)
+{n,m} (min n, max m caracteres)
